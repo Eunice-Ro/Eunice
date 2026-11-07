@@ -56,5 +56,3 @@ This project helped me gain practical familiarity with business intelligence wor
 - `Report/` — project write-ups, when cleared for public sharing
 - `Screenshots/` — selected dashboard views
 
-## Notes
-This is a learning and portfolio project, not a production system. Data, screenshots, and reports should only be published when their source and sharing permissions have been verified. Sensitive information should be removed or replaced with synthetic examples.
